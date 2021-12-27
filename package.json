@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "crypto-js": "^4.1.1",
+    "cryptojs": "^2.5.3",
+    "js-crypto-aes": "^1.0.3",
+    "js-file-download": "^0.4.12",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hook-form": "^7.22.1",
+    "react-router-dom": "^6.1.1",
+    "react-script-tag": "^1.1.2",
     "react-scripts": "4.0.3",
+    "spacecrypt": "^1.0.3",
+    "steggy-noencrypt": "^2.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

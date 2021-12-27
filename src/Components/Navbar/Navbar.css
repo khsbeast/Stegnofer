@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#Nav {
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+    border-bottom: 1px outset #74D35D;
+    display: flex;
+    align-items: center;
+}
+#cont{
+    display: inline;
+    display: flex;
+    justify-content: center;
+}
+img{
+    display: flex;
+    justify-self: center;
+    height: 6rem;
+}
+#head {
+color: #fff;
+font-family: Oleo Script;
+font-style: normal;
+display: flex;
+justify-self: center;
+padding-top: 0.8rem;
+z-index: 26;
+font-weight: bold;
+font-size: 5rem;
+line-height: 89px;
+}
